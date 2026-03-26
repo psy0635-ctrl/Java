@@ -1,6 +1,6 @@
 package ai0326;
 
-public class ParesTest {
+public class ParesTest01 {
     public static void main(String[] args) {
         String num1 = "2026";
         String num2 = "3,14";
