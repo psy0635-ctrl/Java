@@ -9,12 +9,14 @@ public class Pound_KG_Test {
         System.out.println("<==== 파운드/킬로그램 변환기 ====>");
         System.out.println("파운드를(lb)를 입력하세요 ==> ");
         double lb = s.nextDouble();     // 소수점 숫자(double) 입력 받기
+        // 파운드 값을 킬로그램으로 바꾸기 위해 변환 비율 0.453을 곱합니다.
         System.out.println(lb + "파운드(lb)는" + (lb * 0.453) + "킬로그램(kg)입니다.");
         // 파운드 --> 킬로그램 변환
 
         System.out.println("<==== 킬로그램/파운드 변환기 ====>");
         System.out.println("킬로그램(kg)을 입력하세요 ==>");
         double kg = s.nextDouble();
+        // 킬로그램 값을 파운드로 바꾸기 위해 변환 비율 2.204를 곱합니다.
         System.out.println(kg + "킬로그램(kg)은" + (kg * 2.204) + "파운드(lb)입니다.");
         // 킬로그램 --> 파운드 변환
 

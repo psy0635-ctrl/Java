@@ -9,6 +9,7 @@ public class Stationery_Test {
          int totalBuy = 0;
          int totalSell = 0;
 
+         // 구입 금액과 판매 금액을 각각 누적해서 총 이익을 계산합니다.
          totalBuy += 500 * 20;
          totalBuy += 300 * 30;
 

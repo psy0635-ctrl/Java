@@ -7,6 +7,7 @@ public class String_Test {
         String s = "난생처음 자바";
 
 //        int len = s.length();     // 문자열의 길이 재기
+        // String 메서드는 원본 문자열을 직접 바꾸지 않고 새 결과를 반환합니다.
 
         System.out.println("내용 : " + s);
         System.out.println("길이 : " + s.length());  // '난, 생, 처, 음, (공백), 자, 바' 총 7개이므로 7을 반환합니다.

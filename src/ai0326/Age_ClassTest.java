@@ -14,6 +14,7 @@ public class Age_ClassTest {
         Calendar calendar = Calendar.getInstance();
         int NowYear = calendar.get(Calendar.YEAR);
 
+        // 현재 연도에서 출생 연도를 빼서 단순 나이를 계산합니다.
         int age = NowYear - birthyear;
 
 

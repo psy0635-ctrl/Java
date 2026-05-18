@@ -4,6 +4,7 @@ public class Continue_Test {
     public static void main(String[] args) {
         int sum =0;
         for (int i = 1; i <=100; i++) {
+           // 4의 배수는 더하지 않고 다음 반복으로 넘어갑니다.
            if(i % 4 == 0)
                continue;
             sum += i;

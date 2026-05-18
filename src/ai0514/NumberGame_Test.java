@@ -11,6 +11,7 @@ public class NumberGame_Test {
         int computerNum = 0; // 컴퓨터가 생각한 숫자를 저장하는 변수
         Random random = new Random(); // 랜덤 숫자를 생성하기 위한 Random 객체 생성
 
+        // 정답을 맞힐 때까지 반복되는 숫자 맞히기 게임입니다.
         while (true) // 조건 없이 무한 반복 → 맞출 때까지 계속 게임 진행
         {
             // random.nextInt(5) → 0~4 중 랜덤 숫자 생성
@@ -23,6 +24,7 @@ public class NumberGame_Test {
             // 사용자로부터 정수 입력받아 num에 저장
             num = s.nextInt();
 
+            // 입력값과 컴퓨터 숫자가 같으면 정답이므로 반복을 종료합니다.
             if (computerNum == num) // 컴퓨터 숫자와 사용자 숫자가 같으면
             {
                 System.out.println("축하합니다. 맞히셨어요~");

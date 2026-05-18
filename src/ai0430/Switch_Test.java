@@ -11,6 +11,7 @@ public class Switch_Test {
         int num = s.nextInt();
         String result = "";
 
+        // switch는 하나의 값에 따라 실행할 case를 선택합니다.
         switch (num)
         {
             case 1:

@@ -32,6 +32,7 @@ public class Score_Test {
         int age = s.nextInt();
 
 
+        // 나이가 20세 이상인지에 따라 서로 다른 문장을 출력합니다.
         if(age >= 20)
         {
             System.out.println("즐거운 시간 보내세요.^^");

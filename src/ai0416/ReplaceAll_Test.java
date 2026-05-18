@@ -3,6 +3,7 @@ package ai0416;
 public class ReplaceAll_Test {
     public static void main(String[] args) {
 
+        // 문자열 메서드가 어떤 값을 반환하는지 확인하는 종합 연습 파일입니다.
         // ────────────────────────────────────────────
         // 1. replaceAll() - 특정 문자 제거
         // ────────────────────────────────────────────
@@ -67,6 +68,7 @@ public class ReplaceAll_Test {
 //      System.out.println(s5.charAt(4));  // ← 주석 처리된 이유
 
         //위 코드 for문으로 변환
+        // 문자열 길이만큼 반복하면서 한 글자씩 꺼내 출력합니다.
         for(int i = 0; i < s5.length(); i++)
         {
             char c = s5.charAt(i);

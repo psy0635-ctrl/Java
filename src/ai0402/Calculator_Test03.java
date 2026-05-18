@@ -14,6 +14,7 @@ public class Calculator_Test03 {
         System.out.println("정수2 입력 : ");
         int num2 = s.nextInt();
 
+        // 나눗셈과 나머지 연산은 0으로 나누면 오류가 나므로 먼저 검사합니다.
         if(num1==0){
             System.out.println("0으로 나눌 수 없습니다.");
         }

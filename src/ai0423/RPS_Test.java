@@ -12,6 +12,7 @@ public class RPS_Test { // RPS_Test 클래스 선언 (파일명과 동일해야 
         System.out.println("가위,바위,보 중 하나를 입력하세요 : "); // 입력 안내 메시지 출력
         String me = s.nextLine(); // 사용자가 입력한 문자열을 me 변수에 저장
 
+        // 배열은 같은 종류의 값을 번호(index)로 묶어 보관할 때 사용합니다.
         String[] computer = {"가위","바위","보"}; // 컴퓨터가 선택할 수 있는 값을 배열로 선언
         // 인덱스: 가위=0, 바위=1, 보=2
 
@@ -27,6 +28,7 @@ public class RPS_Test { // RPS_Test 클래스 선언 (파일명과 동일해야 
 
         // ===================== 승패 판별 로직 =====================
 
+        // 문자열 비교는 ==가 아니라 equals()를 사용합니다.
         if(me.equals("가위")) { // 사용자가 "가위"를 선택한 경우
             if (computerChoice.equals("가위"))
                 result = "비겼습니다.";      // 가위 vs 가위 → 비김

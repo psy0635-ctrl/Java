@@ -18,6 +18,7 @@ public class Study_Avg_Test { // 프로그램의 이름(클래스명)입니다.
         double score3 = s.nextDouble(); // 엑셀 성적 저장
 
         // ||는 '또는(OR)'을 의미합니다.
+        // 세 과목 중 하나라도 정상 범위를 벗어나면 잘못된 입력으로 처리합니다.
         // 입력된 성적 중 하나라도 0보다 작거나, 4.5보다 크면 잘못된 입력으로 판단합니다.
         if (score1 < 0 || score1 > 4.5 ||score2 < 0 || score2 > 4.5 || score3 < 0 || score3 > 4.5)
         {
@@ -25,6 +26,7 @@ public class Study_Avg_Test { // 프로그램의 이름(클래스명)입니다.
         }
         else
         {       // 가중 평균 계산 공식: (학점 * 성적)의 합 / 총 학점의 합
+            // 과목별 학점 비중을 곱해 평균을 구하므로 단순 평균보다 정확합니다.
             double avg = (3 * score1 + 2 * score2 + 1 * score3) / (3+2+1);
             System.out.printf("3과목 평균 학점 : %.2f\n",avg); // printf는 서식(Format)을 지정해 출력합니다.
         }

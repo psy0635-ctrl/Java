@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c37ee11-84c7-4587-b4ec-d402ae33e037" name="변경" comment="Java_study">
-      <change afterPath="$PROJECT_DIR$/Java Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/26__5__14___10_46__________.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/26__5__14__오전_10_46,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0514/NumberGame_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0514/NumberGame_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/Age_ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Age_ClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/BMI_ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/BMI_ClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/Delivery_Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Delivery_Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/ParesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ParesTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/ParesTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ParesTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Practice01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Practice02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,42 +38,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "psy0635-ctrl"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;psy0635-ctrl&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/psy0635-ctrl/Java.git",
-    "accountId": "29e9fc8e-b458-49cc-8f28-8aa74dcf99ab"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/psy0635-ctrl/Java.git&quot;,
+    &quot;accountId&quot;: &quot;29e9fc8e-b458-49cc-8f28-8aa74dcf99ab&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3DhBLuHJMKdqJPo7ixeeefl3yoV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "애플리케이션.BMI_ClassTest3.executor": "Debug",
-    "애플리케이션.LAB_Break.executor": "Debug",
-    "애플리케이션.NumberGame_Test.executor": "Debug"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;애플리케이션.BMI_ClassTest3.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.LAB_Break.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.NumberGame_Test.executor&quot;: &quot;Debug&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ai0514" />

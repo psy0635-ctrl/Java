@@ -12,6 +12,7 @@ public class Drive_Test {
 
         String result = ""; // empty String
 
+        // 점수가 70점 이상이면 합격, 아니면 불합격으로 판정합니다.
         if (score >= 70)
         {
             result = "합격";

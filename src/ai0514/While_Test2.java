@@ -14,6 +14,7 @@ public class While_Test2 {
             System.out.print("첫번째 점수 입력: ");
             num1 = s.nextInt();
 
+            // -1을 입력하면 break로 무한 반복을 빠져나갑니다.
             if(num1 == -1)
                 break;
 

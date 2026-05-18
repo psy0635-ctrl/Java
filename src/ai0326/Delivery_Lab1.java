@@ -17,6 +17,7 @@ public class Delivery_Lab1 {
         System.out.println("무게(g):");
         int weight = s.nextInt();
 
+        // 무게 1g당 5원으로 계산하여 배송비를 구합니다.
         int deliveryfee = weight * 5;
 
         System.out.println("==받는 사람:" + name);

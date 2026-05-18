@@ -12,6 +12,7 @@ public class Lab_SetLine {
         // i = 3 → fact = 2 * 3 = 6
         // i = 4 → fact = 6 * 4 = 24
         // i = 5 → fact = 24 * 5 = 120
+        // 1부터 친구 수까지 모두 곱하면 줄을 세우는 경우의 수(friend_num!)가 됩니다.
         for (int i = 1; i <= friend_num; i++) {
             fact = fact * i;  // 누적 곱셈: 이전 결과에 현재 i를 곱해 갱신
         }

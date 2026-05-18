@@ -4,6 +4,7 @@ public class If_elseTset {
     public static void main(String[] args) {
         int num = 200;
 
+        // if 조건식이 참이면 if 블록, 거짓이면 else 블록이 실행됩니다.
         if(num < 100) {
             System.out.println("조건식의 결과가 참이군요.");
             System.out.println("100보다 작군요.");

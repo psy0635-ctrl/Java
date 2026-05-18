@@ -5,6 +5,7 @@ public class Continue_Test2 {
         int sum =0;
 
         for (int i = 1; i <=100; i++) {
+           // 홀수는 건너뛰고 짝수만 sum에 더합니다.
            if(i % 2 == 1)
                continue;
             sum += i;

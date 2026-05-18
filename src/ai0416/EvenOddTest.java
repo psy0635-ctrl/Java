@@ -11,6 +11,7 @@ public class EvenOddTest {
         int num = s.nextInt();
         String result = "";  // 결과 문자열을 담을 변수 선언, 일단 빈 문자열로 초기화
 
+        // 2로 나눈 나머지가 0이면 짝수, 아니면 홀수입니다.
         if(num % 2 == 0)
             result = "짝수";
         else

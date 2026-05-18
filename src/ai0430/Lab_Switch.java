@@ -11,6 +11,7 @@ public class Lab_Switch {
         int birthyear = s.nextInt();
         String animal = "";
 
+        // 출생연도를 12로 나눈 나머지에 따라 12간지 문자열을 선택합니다.
         switch (birthyear % 12)
         {
             case 0:

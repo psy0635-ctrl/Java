@@ -17,6 +17,7 @@ public class Calculator_Test02 {
         int math = s.nextInt();
 
         //계산
+       // 세 과목 점수로 합계, 평균, 최댓값, 최솟값을 계산합니다.
        int sum = kor + eng + math;      // 합계
        double avg = (double) sum / 3;   // 평균
        int max = Math.max(kor,Math.max(eng,math));  //최대값

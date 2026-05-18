@@ -10,6 +10,7 @@ public class ScannerTest04 {
             String n1 = s.next();
             String n2 = s.next();
 
+            // 문자열 두 개를 정수로 변환한 뒤 더합니다.
             int a = Integer.parseInt(n1);
             int b = Integer.parseInt(n2);
 
