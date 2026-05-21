@@ -3,11 +3,11 @@ package ai0521.Rabbit;
 public class Run_Rabbit {
     public static void main(String[] args) {
         // 1. 생성자 호출 → Rabbit 객체 생성
-        Rabbit r = new Rabbit();
+        Rabbit r = new Rabbit(); // 참조변수 r, 생성자 호출
 
         // 3. setter로 값 저장
-        r.setShape("원형");      // shape = "원형"
-        r.setPosition(10, 20); // xPos = 10, yPos = 20
+        r.setShape("원형");       // setter로 값 저장
+        r.setPosition(10, 20); // 메서드로 위치 설정
 
         // 2. getter로 값 읽기
         System.out.println("모양: "  + r.getShape());  // 원형

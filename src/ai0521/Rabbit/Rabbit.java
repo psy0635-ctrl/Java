@@ -1,15 +1,18 @@
 package ai0521.Rabbit;
 
-public class Rabbit {
+public class Rabbit { // ← 클래스 선언 (설계도 시작)
+
+    // 속성(필드) , private = 외부 직접접근 차단
     private String shape;  // 토끼의 모양
     private int xPos;   // x 위치
     private int yPos;   // y 위치
 
+    // 기능(메서드)
     void setPosition(int x, int y) {
         xPos = x;
         yPos = y;
     }
-
+    // 기본 생성자
     public Rabbit(){
             // 비어있음 = 초기값 없이 객체만 생성
     }
