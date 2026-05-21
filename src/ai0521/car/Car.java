@@ -70,24 +70,24 @@ public class Car {
 
     //  car의 기능에 해당하는 메소드
     public void startOn(){
-        System.out.println(name + "자동차의 시동을 건다.");
+        System.out.println(name + " 자동차의 시동을 건다.");
     }
     public void startOff (){
-        System.out.println(name + "자동차의 시동을 끈다.");
+        System.out.println(name + " 자동차의 시동을 끈다.");
     }
     public void drive (){
-        System.out.println(name + "자동차가 주행한다.");
+        System.out.println(name + " 자동차가 주행한다.");
     }
     public void stop () {
-        System.out.println(name + "자동차가 멈춘다.");
+        System.out.println(name + " 자동차가 멈춘다.");
     }
     public void forward () {
-        System.out.println(name + "자동차가 전진한다.");
+        System.out.println(name + " 자동차가 전진한다.");
     }
     public void backward () {
-        System.out.println(name + "자동차가 후진한다.");
+        System.out.println(name + " 자동차가 후진한다.");
     }
     public void rotate (String direction) {
-        System.out.println(name + "자동차가" + direction + "한다.");
+        System.out.println(name + " 자동차가 " + direction + " 한다.");
     }
 }
