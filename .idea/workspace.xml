@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c37ee11-84c7-4587-b4ec-d402ae33e037" name="변경" comment="Java_study">
+    <list default="true" id="ba8a9402-b482-4f7e-96d0-94ebc0f11545" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0319/variableTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0319/variableTest5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/Age_ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Age_ClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/BMI_ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/BMI_ClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/Delivery_Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Delivery_Lab1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/ParesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ParesTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/ParesTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ParesTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Practice01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/Practice02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai0326/ScannerTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0326/ScannerTest04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,66 +31,61 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/psy0635-ctrl/Java.git&quot;,
-    &quot;accountId&quot;: &quot;29e9fc8e-b458-49cc-8f28-8aa74dcf99ab&quot;
+    &quot;accountId&quot;: &quot;45e410ad-e66c-4e22-b8dc-1c7a44c28e57&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="3DhBLuHJMKdqJPo7ixeeefl3yoV" />
+  <component name="ProjectId" id="3D9odKBfds7ItecrQxjXtms5Bu7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;애플리케이션.BMI_ClassTest3.executor&quot;: &quot;Debug&quot;,
-    &quot;애플리케이션.LAB_Break.executor&quot;: &quot;Debug&quot;,
-    &quot;애플리케이션.NumberGame_Test.executor&quot;: &quot;Debug&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/study/Java",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
+    "애플리케이션.For_Test1.executor": "Run",
+    "애플리케이션.Lab_Switch.executor": "Debug",
+    "애플리케이션.ScannerTest04.executor": "Run",
+    "애플리케이션.Temp_Test.executor": "Run"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ai0514" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="7c37ee11-84c7-4587-b4ec-d402ae33e037" name="변경" comment="" />
-      <created>1778724370440</created>
+      <changelist id="ba8a9402-b482-4f7e-96d0-94ebc0f11545" name="변경" comment="" />
+      <created>1777703732764</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1778724370440</updated>
+      <updated>1777703732764</updated>
     </task>
-    <task id="LOCAL-00001" summary="Java_study">
-      <option name="closed" value="true" />
-      <created>1778725875394</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1778725875394</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java_study" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java_study" />
   </component>
 </project>
