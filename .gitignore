@@ -1,12 +1,10 @@
-# 빌드 결과물 (컴파일된 .class)
+# 빌드 결과물
 out/
-**/out/
 *.class
 
-# IntelliJ IDE
-.idea/workspace.xml
-.idea/claudeCodeTabState.xml
-.idea/shelf/
+# IntelliJ IDEA
+.idea/
+*.iml
 
 # Claude / 기타
 .ai/
